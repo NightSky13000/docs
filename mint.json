@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "AL STORE",
   "logo": {
-    "dark": "https://cdn.discordapp.com/attachments/951411631177482260/1259482503517835387/LogoArtboard_1_copy.png?ex=668bd7fc&is=668a867c&hm=f83505a82f2bea6e9796b126063f4edc0160c6eb6b7f546e886565d709f67afe&",
-    "light": "https://cdn.discordapp.com/attachments/951411631177482260/1259482503517835387/LogoArtboard_1_copy.png?ex=668bd7fc&is=668a867c&hm=f83505a82f2bea6e9796b126063f4edc0160c6eb6b7f546e886565d709f67afe&"
+    "dark": "https://alstore.space/penyimpanan/logo.png",
+    "light": "https://alstore.space/penyimpanan/logo.png"
   },
   "favicon": "https://alstore.space/penyimpanan/logo.png",
   "colors": {
