@@ -53,19 +53,17 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/membeli-server",
+        "essentials/melakukan-topup-saldo",
+        "essentials/upgrade-server",
+        "essentials/invite-teman-ke-panel",
+        "essentials/memperpanjang-server"
       ]
     },
     {
